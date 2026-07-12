@@ -30,8 +30,6 @@ Display Menu
 
 ## 🖼️ Project Screenshot
 
-> Place your screenshot in the project root as **output.png** (or update the path below).
-
 ![Project Screenshot](output.png)
 
 ## 📁 Project Structure
