@@ -35,7 +35,6 @@ Display Menu
 ## 📁 Project Structure
 
 ```text
-.
 ├── Logic Box.py
 ├── Screenshot/
 │   └── output.png
