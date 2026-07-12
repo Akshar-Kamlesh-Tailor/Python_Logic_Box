@@ -30,7 +30,7 @@ Display Menu
 
 ## 🖼️ Project Screenshot
 
-![Project Screenshot](output.png)
+![Project Screenshot](Screenshot/output.png)
 
 ## 📁 Project Structure
 
